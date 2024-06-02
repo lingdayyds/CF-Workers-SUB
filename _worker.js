@@ -12,11 +12,13 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93t.me%2FCMLiussss%E8%A7%A3%E9%94%81%E6%9B%B4%E5%A4%9A%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9
-https://sub.xf.free.hr/auto
-https://WARP.fxxk.dedyn.io/auto
 https://tj.542441.xyz/a542441lingda
 https://trojan2.18375202441.workers.dev/a542441lingda
+https://vless2.jiajiale.dynv6.net/555ee19e-65fa-4ec4-bda5-31d5940a5d29
+https://vless.wangwei.dns.army/555ee19e-65fa-4ec4-bda5-31d5940a5d29
+https://3k.fxxk.dedyn.io/sub?host=vless2.jiajiale.dynv6.net&uuid=555ee19e-65fa-4ec4-bda5-31d5940a5d29&path=/?proxyip=proxyip.tw.fxxk.dedyn.io
+http://allsub.king361.cf?host=vless.wangwei.dns.army&uuid=555ee19e-65fa-4ec4-bda5-31d5940a5d29&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io
+ 
 `
 
 let urls = [];

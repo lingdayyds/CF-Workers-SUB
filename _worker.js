@@ -14,10 +14,7 @@ let timestamp = 4102329600000;//2099-12-31
 let MainData = `
 https://tj.542441.xyz/a542441lingda
 https://trojan2.18375202441.workers.dev/a542441lingda
-https://vless2.jiajiale.dynv6.net/555ee19e-65fa-4ec4-bda5-31d5940a5d29
-https://vless.wangwei.dns.army/555ee19e-65fa-4ec4-bda5-31d5940a5d29
-https://3k.fxxk.dedyn.io/sub?host=vless2.jiajiale.dynv6.net&uuid=555ee19e-65fa-4ec4-bda5-31d5940a5d29&path=/?proxyip=proxyip.tw.fxxk.dedyn.io
-http://allsub.king361.cf?host=vless.wangwei.dns.army&uuid=555ee19e-65fa-4ec4-bda5-31d5940a5d29&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io
+
  
 `
 

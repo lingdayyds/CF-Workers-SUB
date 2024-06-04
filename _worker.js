@@ -19,6 +19,8 @@ https://vless-49c.pages.dev/1e5f8cf6-163e-4ffa-987b-46c9b3893f37
 https://3k.fxxk.dedyn.io/sub
 https://sub.kaiche.tk/?token=auto
 http://allsub.king361.cf
+https://vless.wangwei.dns.army/1e5f8cf6-163e-4ffa-987b-46c9b3893f37
+https://free.king361.cf/v2?ip=skk.moe&port=8443
 `
 
 let urls = [];

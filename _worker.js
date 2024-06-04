@@ -16,7 +16,9 @@ https://tj.542441.xyz/a542441lingda
 https://trojan2.18375202441.workers.dev/a542441lingda
 https://7b6d10e9.bpb-panel-1wb.pages.dev/sub/89b3cbba-e6ac-485a-9481-976a0415eab9#BPB-Normal
 https://vless-49c.pages.dev/1e5f8cf6-163e-4ffa-987b-46c9b3893f37
- 
+https://3k.fxxk.dedyn.io/sub
+https://sub.kaiche.tk/?token=auto
+http://allsub.king361.cf
 `
 
 let urls = [];

@@ -14,7 +14,7 @@ let timestamp = 4102329600000;//2099-12-31
 let MainData = `
 https://tj.542441.xyz/a542441lingda
 https://trojan2.18375202441.workers.dev/a542441lingda
-
+https://7b6d10e9.bpb-panel-1wb.pages.dev/sub/89b3cbba-e6ac-485a-9481-976a0415eab9#BPB-Normal
  
 `
 

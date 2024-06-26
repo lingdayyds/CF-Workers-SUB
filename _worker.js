@@ -11,9 +11,7 @@ let total = 99;//PB
 let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
-let MainData = `https://vless.542441.xyz/1e5f8cf6-163e-4ffa-987b-46c9b3893f37?b64，
-	        https://trojan2.18375202441.workers.dev/a542441lingda?b64，
-                https://tj.542441.xyz/a542441lingda?b64
+let MainData = `
 
 `
 
